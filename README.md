@@ -1,1 +1,1 @@
-https://mjllewelyn.github.io/maps
+mjllewelyn.github.io/maps
